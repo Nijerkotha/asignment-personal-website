@@ -1,0 +1,173 @@
+body {
+    display: block;
+    margin: 8px;
+}
+.aminul {
+    width: 1100px;
+    background: url(images/header-bg.png);
+    background: no-repeat;
+    background-image: cover;
+    margin-bottom: 100px;
+    display: block;
+    overflow: hidden;
+}
+section {
+    display: block;
+}
+.name {
+    width: 500px;
+    float: left;
+    padding: 40px;
+}
+div {
+    display: block;
+}
+p:hover{
+    color: rgb(223, 12, 223);
+    
+}
+h3{
+    color:rebeccapurple;
+    font-size: 30px;
+}
+h3:hover{
+    color: sandybrown;
+}
+.name h2 {
+    font-size: 25px;
+    color: black;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+p {
+    color: dimgrey;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg,lightsalmon,tomato );
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.button:hover{
+        color: springgreen;
+        font-size: 25px;
+}
+.name-image {
+    width: 500px;
+    float: right;
+}
+.name-image img {
+    width: 100%;
+}
+.biography {
+    width: 1100px;
+    background: url(images/biography-bg.png);
+    background: no-repeat;
+    display: block;
+    overflow: hidden;
+}
+.bio-image {
+    width: 500px;
+    float: left;
+}
+.bio-image img {
+    width: 100%;
+}
+.bio-info {
+    padding: 100px 15px 15px 15px;
+    float: right;
+    width: 500px;
+}
+.bio-info h2 {
+    font-size: 30px;
+    color: rgb(236, 86, 86);
+}
+.my_work {
+    padding-top: 50px;
+    background: url(images/work-1.png);
+    background: no-repeat;
+}
+.work {
+    font-size: 30px;
+    text-align: center;
+}
+:-webkit-any(article,aside,nav,section) h1 {
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+}
+h1 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h1:hover{
+    color: rgb(187, 20, 61);
+}
+.work img {
+    width: 300px;
+    padding: 10px;
+    box-shadow: 10px 10px 40px dimgrey;
+}
+.footo {
+    padding: 150px;
+    text-align: center;
+}
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+h5 {
+    display: block;
+    font-size: 0.83em;
+    margin-block-start: 1.67em;
+    margin-block-end: 1.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.email {
+    background-color: rgb(236, 86, 86);
+    width: 700px;
+    height: 150px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.email h6 {
+    text-align: center;
+    color: rebeccapurple;
+    
+}
+h6 {
+    display: block;
+    font-size: 2em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
